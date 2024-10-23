@@ -14,7 +14,21 @@ Presentación breve y concisa: Nombre, experiencia como ingeniero informático y
 Enfoque de la clase: "Hoy, en vez de una clase tradicional, vamos a simular una situación real de desarrollo aplicando un concepto del OWASP Top 10."
 
 que es el OWASP Top 10?
-El OWASP Top 10 es una lista estándar de las 10 vulnerabilidades de seguridad más críticas en aplicaciones web, publicada por la Open Web Application Security Project (OWASP). Esta lista se actualiza periódicamente y es considerada como el estándar de facto para la seguridad de aplicaciones web.
+El OWASP Top 10 es una lista estándar de las 10 vulnerabilidades de seguridad más críticas en aplicaciones web, publicada por la *Open Web Application Security Project* (OWASP). Esta lista se actualiza periódicamente y es considerada como el estándar para la seguridad de aplicaciones web.
+
+
+Sitio web oficial: https://owasp.org/
+OWASP Top 10: https://owasp.org/www-project-top-ten/
+Guías de desarrollo seguro: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/
+
+OWASP también ofrece:
+- Herramientas de testing
+- Documentación detallada
+- Proyectos de código abierto
+- Comunidad activa de seguridad
+- Eventos y conferencias
+- Capítulos locales en todo el mundo
+
 
 Las vulnerabilidades incluyen:
 1. Inyección (SQL, NoSQL, etc.)
@@ -59,13 +73,56 @@ func getUserData(username string) {
         Se refiere a la exposición accidental de datos sensibles, como contraseñas, tokens de acceso, información de tarjetas de crédito, etc.
 4. Entidades XML externas (XXE)
         Se refiere a la explotación de la capacidad de una aplicación para procesar documentos XML externos.
-        
+        Ejemplo de código vulnerable a XXE:
+        ```go  
+        // Ejemplo vulnerable a XXE en Go
+        func parseXML(xmlInput string) {
+            decoder := xml.NewDecoder(strings.NewReader(xmlInput))
+            // Configuración insegura que permite entidades externas
+            decoder.Entity = map[string]string{
+                "xxe": "file:///etc/passwd",
+            }
+            var result interface{}
+            decoder.Decode(&result)
+        }
+
+        // Versión segura:
+        func parseXMLSecure(xmlInput string) {
+            decoder := xml.NewDecoder(strings.NewReader(xmlInput))
+            // Deshabilitar el procesamiento de entidades externas
+            decoder.Entity = nil
+            decoder.Strict = true
+            var result interface{}
+            decoder.Decode(&result)
+        }
+        ```
 
 5. Control de acceso roto
 6. Configuración de seguridad incorrecta
 7. Cross-Site Scripting (XSS)
+    Se refiere a la explotación de la capacidad de una aplicación para ejecutar código malicioso en el contexto de un usuario autenticado.
+    Ejemplo de código vulnerable a XSS:
+  
+
 8. Deserialización insegura
 9. Uso de componentes con vulnerabilidades conocidas
 10. Registro y monitoreo insuficientes
+    
+    ```go
+    // Ejemplo de registro insuficiente
+    func processUserAction(action string) {
+        // Sin registro de acciones
+        performAction(action)
+    }
 
-Esta lista ayuda a desarrolladores y organizaciones a priorizar los riesgos de seguridad más importantes al desarrollar aplicaciones web.
+    // Versión segura con logging adecuado
+    func processUserActionSecure(action string, userID string) {
+        log.Printf("Usuario %s ejecutando acción: %s", userID, action)
+        if err := performAction(action); err != nil {
+            log.Printf("Error en acción %s para usuario %s: %v", action, userID, err)
+        }
+        log.Printf("Acción %s completada para usuario %s", action, userID)
+    }
+    ```
+
+
