@@ -59,7 +59,7 @@ https://www.aiepvirtual.cl/ultra/courses/_408987_1/outline/edit/document/_115853
 
 5. Menciona un ejemplo de cómo se puede ver afectada la disponibilidad de la información. (2 pts)
 
-## PCI DSS 
+## PCI DSS (10 pts)
 **Instrucciones:** 
 vea el Video complementario semana 2: PCI – DSS. Qué es PCI DSS. 12 requisitos de seguridad y la norma. link:
 https://www.aiepvirtual.cl/ultra/courses/_408987_1/outline/edit/document/_11585378_1?courseId=_408987_1&view=content
@@ -70,12 +70,18 @@ nombre-apellido-eva2-pci-dss.md
 
 **Preguntas:**
 
-1. ¿Qué significa PCI DSS y cuál es su propósito principal?
+1. ¿Qué significa PCI DSS y cuál es su propósito principal? (3 pts)
 
-2. ¿A qué tipo de empresas afecta PCI DSS?
+2. ¿A qué tipo de empresas afecta PCI DSS? (2 pts)
 
-3. Menciona tres ejemplos de datos que PCI DSS busca proteger.
+3. Menciona tres ejemplos de datos que PCI DSS busca proteger. (2 pts)
 
-4. ¿Por qué es importante la certificación PCI DSS para las empresas?
+4. ¿Por qué es importante la certificación PCI DSS para las empresas? (1 pts)
 
-5. Describe brevemente tres de los doce requisitos de PCI DSS.
+5. Describe brevemente tres de los doce requisitos de PCI DSS. (2 pts)
+
+Total: 10 pts
+
+
+# RESTRICCIONES
+- puede subir el contenido como fecha limite domingo 10 de noviembre 11:59:00 a su repositorio
