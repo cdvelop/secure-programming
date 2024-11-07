@@ -4,7 +4,13 @@
 **Instrucciones:** 
 - cree un repositorio en su cuenta github.com con el nombre
 eva2-seg-prog ej: *github.com/suNombreCuenta/eva2-prog-seg*
-donde subirá de forma manual sus respuestas de los ejercicios que a continuación se mencionan (5 pts)
+donde subirá de forma manual sus respuestas de los ejercicios que a continuación se mencionan 
+informe a su profesor el nombre de su repositorio para agregarlo al listado
+(5 pts)
+
+listado repositorios:
+- nombre  github.com/nnn/eva2-prog-seg
+- 
 
 ## OWASP y programación segura (30 pts)
 **Instrucciones:** 
