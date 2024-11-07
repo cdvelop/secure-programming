@@ -44,6 +44,48 @@ nombre-apellido-eva2-owasp.md el siguiente cuestionario con lo que comprendió s
 
 Total: 30 pts
 
+
+## Vulnerabilidades y exposiciones comunes CVE - CVSS y otros (15 pts)
+**Instrucciones:** 
+- vea y interactué con el contenido Vulnerabilidades y exposiciones comunes del link (semana 3):
+https://www.aiepvirtual.cl/bbcswebdav/xid-135460483_1
+
+- lea el documento descargable pdf sobre  CVE - CVSS y otros (semana 3):
+
+https://www.aiepvirtual.cl/ultra/courses/_408987_1/outline/edit/document/_11585380_1?courseId=_408987_1&view=content
+
+- responda con sus propias palabras en un documento markdown con el formato:
+nombre-apellido-eva2-cvss.md el siguiente cuestionario con lo que comprendió:
+
+**Preguntas:**
+
+1. Define vulnerabilidad, amenaza y riesgo en el contexto de la seguridad informática. (2)
+
+2. ¿Qué es CVE y cuál es su propósito? (1)
+
+3. Menciona tres ventajas del uso de CVE. (1)
+
+4. ¿Qué es CVSS y para qué se utiliza? (1)
+
+5. Describe los tres grupos métricos del CVSS. (1)
+
+6. Explica el concepto de "componentes con vulnerabilidades conocidas" (OWASP A9:2017). (1)
+
+7. ¿Qué es la encriptación y cuál es su objetivo? (1)
+
+8. ¿Qué significan las siglas SOAP, WS y XML? (1)
+
+9. ¿Qué es hardening y cómo se relaciona con la seguridad de sistemas? (2)
+
+10. Describe tres acciones comunes de hardening. (2)
+
+11. ¿Qué es un CAPTCHA y cuál es su función? (1)
+
+12. ¿Qué se entiende por "autenticación robusta centralizada"? (2)
+
+Total: 15 puntos
+
+
 ## Las Tres Bases de la Seguridad Informática (10 pts)
 **Instrucciones:** 
 
