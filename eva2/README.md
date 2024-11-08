@@ -5,8 +5,9 @@
 - cree un repositorio en su cuenta github.com con el nombre
 eva2-seg-prog ej: *github.com/suNombreCuenta/eva2-prog-seg* (5 pts)
 donde subirá de forma manual sus respuestas de los ejercicios que a continuación se mencionan 
-informe a su profesor el nombre de su repositorio para agregarlo al listado enviándolo al correo *cesarsoliscaro@outlook.com*
-*CESAR.SOLISC@correoaiep.cl*
+informe a su profesor el nombre de su repositorio para agregarlo al listado enviándolo al correo:
+- *cesarsoliscaro@outlook.com*
+- *CESAR.SOLISC@correoaiep.cl*
 
 
 listado repositorios:
