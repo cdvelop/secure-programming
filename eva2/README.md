@@ -132,4 +132,4 @@ Total: 10 pts
 
 
 # RESTRICCIONES
-- puede subir el contenido como fecha limite domingo 10 de noviembre 11:59:00 a su repositorio
+- puede subir el contenido como fecha limite lunes 11 de noviembre 11:59:59 a su repositorio
