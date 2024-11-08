@@ -15,6 +15,8 @@ listado repositorios:
 - José Aylwin - https://github.com/CivilizedMage
 - Jose Ignacio - https://github.com/J-Ignacio
 - Juan Beleño - https://github.com/Juanb7737
+- ESLAEN RAFAEL MARTORELL - https://github.com/Eslaen-Jr/eva2-seg-prog
+- Diego González - https://github.com/Chicledot
 
 ## OWASP y programación segura (30 pts)
 **Instrucciones:** 
