@@ -13,7 +13,8 @@ informe a su profesor el nombre de su repositorio para agregarlo al listado envi
 listado repositorios:
 - Francisco Villa - https://github.com/Villata-dev
 - José Aylwin - https://github.com/CivilizedMage
-- 
+- Jose Ignacio - https://github.com/J-Ignacio
+- Juan Beleño - https://github.com/Juanb7737
 
 ## OWASP y programación segura (30 pts)
 **Instrucciones:** 
