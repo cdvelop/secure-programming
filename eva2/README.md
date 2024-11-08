@@ -3,13 +3,15 @@
 ## repositorio github.com (5 pts)
 **Instrucciones:** 
 - cree un repositorio en su cuenta github.com con el nombre
-eva2-seg-prog ej: *github.com/suNombreCuenta/eva2-prog-seg*
+eva2-seg-prog ej: *github.com/suNombreCuenta/eva2-prog-seg* (5 pts)
 donde subirá de forma manual sus respuestas de los ejercicios que a continuación se mencionan 
-informe a su profesor el nombre de su repositorio para agregarlo al listado
-(5 pts)
+informe a su profesor el nombre de su repositorio para agregarlo al listado enviándolo al correo *cesarsoliscaro@outlook.com*
+*CESAR.SOLISC@correoaiep.cl*
+
 
 listado repositorios:
-- nombre  github.com/nnn/eva2-prog-seg
+- Francisco Villa - https://github.com/Villata-dev
+- José Aylwin - https://github.com/CivilizedMage
 - 
 
 ## OWASP y programación segura (30 pts)
@@ -133,3 +135,4 @@ Total: 10 pts
 
 # RESTRICCIONES
 - puede subir el contenido como fecha limite lunes 11 de noviembre 11:59:59 a su repositorio
+- enviar al correo cesarsoliscaro@outlook.com
