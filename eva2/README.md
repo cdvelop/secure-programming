@@ -6,23 +6,22 @@
 eva2-seg-prog ej: *github.com/suNombreCuenta/eva2-prog-seg* (5 pts)
 donde subirá de forma manual sus respuestas de los ejercicios que a continuación se mencionan 
 informe a su profesor el nombre de su repositorio para agregarlo al listado enviándolo al correo:
-- *cesarsoliscaro@outlook.com*
 - *CESAR.SOLISC@correoaiep.cl*
 
 
 listado repositorios:
-01. José Aylwin - https://github.com/CivilizedMage
-02. Juan Beleño - https://github.com/Juanb7737
-03. Catalina Toledo - https://github.com/cataanza
-04. Diego González - https://github.com/Chicledot
-05. Daniel Romero - https://github.com/98Danny11
-06. ESLAEN RAFAEL MARTORELL - https://github.com/Eslaen-Jr/eva2-seg-prog
-07. Francisco Villa - https://github.com/Villata-dev 
-08. Jose Ignacio - https://github.com/J-Ignacio
-09. LUIS ZAÑARTU OTAROLA -
-10. PEDRO FLORES MEDINA - 
-11. SEBASTIAN OLIVERA GONZALEZ - 
-12. BENJAMIN URIBE SANHUEZA -
+01. José Aylwin - [x] https://github.com/CivilizedMage
+02. Juan Beleño - [x] https://github.com/Juanb7737
+03. Catalina Toledo - [x] https://github.com/cataanza
+04. Diego González - [x] https://github.com/Chicledot
+05. Daniel Romero - [x] https://github.com/98Danny11
+06. ESLAEN RAFAEL MARTORELL - [x] https://github.com/Eslaen-Jr
+07. Francisco Villa - [x] https://github.com/Villata-dev 
+08. Jose Ignacio - [x] https://github.com/J-Ignacio
+09. LUIS ZAÑARTU OTAROLA - [x] https://github.com/luisgustavoza
+10. PEDRO FLORES MEDINA - [x] https://github.com/pfloresmed
+11. SEBASTIAN OLIVERA GONZALEZ - [x] https://github.com/sebastian-olivera
+12. BENJAMIN URIBE SANHUEZA - [x] https://github.com/benjaminaxl
 
 ## OWASP y programación segura (30 pts)
 **Instrucciones:** 
@@ -89,7 +88,7 @@ nombre-apellido-eva2-cvss.md el siguiente cuestionario con lo que comprendió:
 
 9. ¿Qué es hardening y cómo se relaciona con la seguridad de sistemas? (2)
 
-10. Describe tres acciones comunes de hardening. (2)
+10. Describe 2 acciones comunes de hardening. (2)
 
 11. ¿Qué es un CAPTCHA y cuál es su función? (1)
 
