@@ -11,12 +11,18 @@ informe a su profesor el nombre de su repositorio para agregarlo al listado envi
 
 
 listado repositorios:
-- Francisco Villa - https://github.com/Villata-dev
-- José Aylwin - https://github.com/CivilizedMage
-- Jose Ignacio - https://github.com/J-Ignacio
-- Juan Beleño - https://github.com/Juanb7737
-- ESLAEN RAFAEL MARTORELL - https://github.com/Eslaen-Jr/eva2-seg-prog
-- Diego González - https://github.com/Chicledot
+01. José Aylwin - https://github.com/CivilizedMage
+02. Juan Beleño - https://github.com/Juanb7737
+03. Catalina Toledo - https://github.com/cataanza
+04. Diego González - https://github.com/Chicledot
+05. Daniel Romero - https://github.com/98Danny11
+06. ESLAEN RAFAEL MARTORELL - https://github.com/Eslaen-Jr/eva2-seg-prog
+07. Francisco Villa - https://github.com/Villata-dev 
+08. Jose Ignacio - https://github.com/J-Ignacio
+09. LUIS ZAÑARTU OTAROLA -
+10. PEDRO FLORES MEDINA - 
+11. SEBASTIAN OLIVERA GONZALEZ - 
+12. BENJAMIN URIBE SANHUEZA -
 
 ## OWASP y programación segura (30 pts)
 **Instrucciones:** 
