@@ -8,21 +8,22 @@ donde subirá de forma manual sus respuestas de los ejercicios que a continuaci�
 informe a su profesor el nombre de su repositorio para agregarlo al listado enviándolo al correo:
 - *CESAR.SOLISC@correoaiep.cl*
 
-
-listado repositorios:
-01. José Aylwin - [x] https://github.com/CivilizedMage
-02. Juan Beleño - [x] https://github.com/Juanb7737
-03. Catalina Toledo - [x] https://github.com/cataanza
-04. Diego González - [x] https://github.com/Chicledot
-05. Daniel Romero - [x] https://github.com/98Danny11
-06. ESLAEN RAFAEL MARTORELL - [x] https://github.com/Eslaen-Jr
-07. Francisco Villa - [x] https://github.com/Villata-dev 
-08. Jose Ignacio - [x] https://github.com/J-Ignacio
-09. LUIS ZAÑARTU OTAROLA - [x] https://github.com/luisgustavoza
-10. PEDRO FLORES MEDINA - [x] https://github.com/pfloresmed
-11. SEBASTIAN OLIVERA GONZALEZ - [x] https://github.com/sebastian-olivera
-12. BENJAMIN URIBE SANHUEZA - [x] https://github.com/benjaminaxl
-
+```go
+var students = map[string]string{
+    "Benjamin Arturo Uribe Sanhueza":       "https://github.com/benjaminaxl",
+    "Catalina Constanza Toledo Mora":       "https://github.com/cataanza",
+    "Daniel Esteban Romero Labra":          "https://github.com/98Danny11",
+    "Diego Nicolas Gonzalez Fuentes":       "https://github.com/Chicledot",
+    "Eslaen Rafael Martorell Segura":       "https://github.com/Eslaen-Jr",
+    "Francisco Javier Villa Faundez":       "https://github.com/Villata-dev",
+    "Jose Ignacio Chavez Leiva":            "https://github.com/J-Ignacio",
+    "Jose Manuel Aylwin Troncoso":          "https://github.com/CivilizedMage",
+    "Juan Alirio Beleño":                   "https://github.com/Juanb7737",
+    "Luis Gustavo Zañartu Otarola":         "https://github.com/luisgustavoza",
+    "Pedro Jose Flores Medina":             "https://github.com/pfloresmed",
+    "Sebastian Etienne Olivera Gonzalez":   "https://github.com/sebastian-olivera",
+}
+```
 ## OWASP y programación segura (30 pts)
 **Instrucciones:** 
 - vea y interactué con el contenido owasp del link (semana 2):
