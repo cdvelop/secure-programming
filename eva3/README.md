@@ -15,6 +15,7 @@ donde subirá de forma manual sus respuestas de los ejercicios que posteriorment
 3. agregue una descripción de su repositorio de github donde cuente quien es sus gustos o aficiones. (3 pts)
 
 4. siga los pasos del video a continuación y mejore su perfil en github
+
 https://youtu.be/xbNx7ZrqK6I?si=gW95ra0AAdcAABaH (4 pts)
 4:05 min
 
@@ -32,7 +33,8 @@ responda en un fichero markdown lo referente a preguntas con el nombre: git-resp
 vea el video y responda según lo comprendido en un fichero markdown con en nombre: iso-9000.md
 
 https://youtu.be/svDC80A4JsM?si=klAI8ix8Awe9DNw3  
-09:39 minutos 
+09:39 minutos
+
 **Preguntas:**
 1. ¿Qué significa ISO? (2 pts)
 2. ¿Cuál es el objetivo principal de la ISO 9000? (3 pts)
@@ -46,6 +48,7 @@ https://youtu.be/svDC80A4JsM?si=klAI8ix8Awe9DNw3
 vea el video y responda según lo comprendido en un fichero markdown con en nombre: iso-27001.md
 https://youtu.be/iZNUDnf7QgQ?si=P03Z7IIT5FRQyiy_
 13:41 minutos
+
 **Preguntas:**
 1. ¿Qué es un SGSI? (3 pts)
 2. ¿Cuáles son los tres pilares de la seguridad de la información? (3 pts)
