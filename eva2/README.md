@@ -24,7 +24,7 @@ var students = map[string]string{
     "Sebastian Etienne Olivera Gonzalez":   "https://github.com/sebastian-olivera",
 }
 ```
-## OWASP y programación segura (30 pts)
+## 1- OWASP y programación segura (30 pts)
 **Instrucciones:** 
 - vea y interactué con el contenido owasp del link (semana 2):
 https://www.aiepvirtual.cl/bbcswebdav/xid-134337512_1
@@ -52,6 +52,23 @@ nombre-apellido-eva2-owasp.md el siguiente cuestionario con lo que comprendió s
         * **Inyección:** Ocurre cuando se envían datos no confiables a un intérprete como parte de un comando o consulta.
         * **Pérdida de Autenticación:**  Cuando las funciones de autenticación y gestión de sesiones son implementadas incorrectamente, permitiendo a los atacantes comprometer cuentas de usuario.
 
+        * **Exposición de Datos Sensibles:** Cuando no se protegen adecuadamente datos confidenciales como contraseñas, números de tarjetas de crédito o información personal.
+        
+        * **Entidades Externas XML (XXE):** Ocurre cuando se procesan documentos XML mal configurados, permitiendo ataques de revelación de datos o denegación de servicio.
+        
+        * **Control de Acceso Defectuoso:** Cuando las restricciones sobre lo que los usuarios autenticados pueden hacer no se aplican correctamente.
+        
+        * **Configuración de Seguridad Incorrecta:** Configuraciones predeterminadas inseguras, directorios incompletos o temporales, errores de configuración del servidor.
+        
+        * **Secuencia de Comandos en Sitios Cruzados (XSS):** Cuando la aplicación incluye datos no confiables sin validación o codificación apropiada.
+       
+        * **Deserialización Insegura:** Cuando se procesan objetos serializados de fuentes no confiables, permitiendo la ejecución remota de código.
+       
+        * **Uso de Componentes con Vulnerabilidades Conocidas:** Uso de bibliotecas, frameworks u otros componentes de software con vulnerabilidades conocidas.
+        
+        * **Registro y Monitoreo Insuficientes:** Falta de monitoreo adecuado y registro de actividades que podrían detectar ataques en progreso.
+        
+
 4. ¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? (4 pts)
 
     * OWASP ASVS (Application Security Verification Standard) es un estándar para verificar la seguridad de las aplicaciones web. Define tres niveles: 1. Oportunista, 2. Estándar, y 3. Avanzado, cada uno con mayor profundidad en la verificación.
@@ -77,7 +94,7 @@ nombre-apellido-eva2-owasp.md el siguiente cuestionario con lo que comprendió s
 Total: 30 pts
 
 
-## Vulnerabilidades y exposiciones comunes CVE - CVSS y otros (15 pts)
+## 2- Vulnerabilidades y exposiciones comunes CVE - CVSS y otros (15 pts)
 **Instrucciones:** 
 - vea y interactué con el contenido Vulnerabilidades y exposiciones comunes del link (semana 3):
 https://www.aiepvirtual.cl/bbcswebdav/xid-135460483_1
@@ -93,27 +110,59 @@ nombre-apellido-eva2-cvss.md el siguiente cuestionario con lo que comprendió:
 
 1. Define vulnerabilidad, amenaza y riesgo en el contexto de la seguridad informática. (2)
 
+    * **Vulnerabilidad:** Debilidad o fallo en un sistema que pone en riesgo la seguridad.
+    * **Amenaza:** Acción que aprovecha una vulnerabilidad para atentar contra la seguridad.
+    * **Riesgo:** Probabilidad de que se materialice una amenaza.
+
 2. ¿Qué es CVE y cuál es su propósito? (1)
+
+    * CVE (Common Vulnerabilidades and Exposures) es una lista estandarizada de nombres para vulnerabilidades de seguridad conocidas. Su propósito es facilitar la identificación y el intercambio de información sobre vulnerabilidades.
 
 3. Menciona tres ventajas del uso de CVE. (1)
 
+    * Facilita la identificación de vulnerabilidades conocidas.
+    * Permite diferenciar vulnerabilidades.
+    * Base de datos en constante actualización.
+
 4. ¿Qué es CVSS y para qué se utiliza? (1)
+
+    * CVSS (Common Vulnerability Scoring System) es un sistema para cuantificar la severidad de una vulnerabilidad en una escala de 0 a 10.
 
 5. Describe los tres grupos métricos del CVSS. (1)
 
+    * **Base:** Características intrínsecas de la vulnerabilidad.
+    * **Temporal:** Características que cambian en el tiempo (opcional).
+    * **Ambiental:** Características específicas del entorno del usuario.
+
 6. Explica el concepto de "componentes con vulnerabilidades conocidas" (OWASP A9:2017). (1)
+
+    * Se refiere al uso de componentes de software (bibliotecas, frameworks) que tienen vulnerabilidades conocidas.  Explotar estas vulnerabilidades puede comprometer la aplicación.
 
 7. ¿Qué es la encriptación y cuál es su objetivo? (1)
 
+    * La encriptación convierte la información en ilegible para protegerla de accesos no autorizados. Su objetivo es asegurar que solo usuarios autorizados puedan acceder a la información.
+
 8. ¿Qué significan las siglas SOAP, WS y XML? (1)
+   
+    * SOAP: Simple Object Access Protocol.
+    * WS: Web Services.
+    * XML: Extensible Markup Language.
 
 9. ¿Qué es hardening y cómo se relaciona con la seguridad de sistemas? (2)
 
-10. Describe 2 acciones comunes de hardening. (2)
+    * Hardening es el proceso de asegurar un sistema reduciendo su superficie de vulnerabilidad. Se relaciona con la seguridad al minimizar los puntos de acceso para posibles ataques.
+
+10. Describe 3 acciones comunes de hardening. (2)
+
+        * Mantener el software actualizado, eliminar software innecesario, cerrar puertos no utilizados, configurar firewalls, establecer políticas de contraseñas robustas,  encriptar datos, establecer roles de usuario. (El alumno debe describir tres).
 
 11. ¿Qué es un CAPTCHA y cuál es su función? (1)
 
+    * Un CAPTCHA es un test para distinguir humanos de ordenadores.  Sirve para prevenir el abuso de servicios por parte de bots.
+
 12. ¿Qué se entiende por "autenticación robusta centralizada"? (2)
+
+    * Es un sistema de autenticación que requiere al menos dos factores para verificar la identidad del usuario, aumentando la seguridad.
 
 Total: 15 puntos
 
@@ -131,13 +180,26 @@ https://www.aiepvirtual.cl/ultra/courses/_408987_1/outline/edit/document/_115853
 
 1. ¿Cuáles son los tres pilares de la seguridad informática y qué significan? (3 pts)
 
+    * Confidencialidad: Solo personal autorizado accede a la información.
+    * Integridad: La información es precisa y no ha sido alterada.
+    * Disponibilidad: La información está accesible cuando se necesita.
+
 2. ¿Qué diferencia hay entre datos e información? (1 pts)
+
+    * Datos: Valores en bruto sin procesar (números, texto, etc.).
+    * Información: Datos procesados y organizados que tienen significado y utilidad.
 
 3. Describe una medida para garantizar la confidencialidad. (2 pts)
 
+    * Cifrado de la información, autenticación de usuarios, asignación de privilegios.
+
 4. ¿Por qué es importante la integridad de la información? (2 pts)
 
+    * Porque trabajar con información errónea puede llevar a malas decisiones y ser tan perjudicial como perderla.
+
 5. Menciona un ejemplo de cómo se puede ver afectada la disponibilidad de la información. (2 pts)
+
+    * Un ataque DDoS, un fallo de hardware, un error de software,  correo electrónico bloqueado en listas negras.
 
 ## PCI DSS (10 pts)
 **Instrucciones:** 
@@ -152,13 +214,45 @@ nombre-apellido-eva2-pci-dss.md
 
 1. ¿Qué significa PCI DSS y cuál es su propósito principal? (3 pts)
 
+   * PCI DSS significa Estándar de Seguridad de Datos para la Industria de Tarjetas de Pago. Su propósito principal es proteger los datos de las tarjetas de pago y prevenir el fraude, estableciendo un conjunto de estándares de seguridad para las empresas que manejan esta información.
+
 2. ¿A qué tipo de empresas afecta PCI DSS? (2 pts)
+
+    *  Afecta a *cualquier* empresa que procesa, almacena o transmite datos de tarjetas de pago. Esto incluye bancos, comercios online, y cualquier otra empresa involucrada en el manejo de estos datos, sin importar el tamaño o el método de almacenamiento (local o en la nube).
 
 3. Menciona tres ejemplos de datos que PCI DSS busca proteger. (2 pts)
 
+    * Número de tarjeta, fecha de vencimiento, código de seguridad (CVV), nombre del titular,  y cualquier información sensible de autenticación.
+
 4. ¿Por qué es importante la certificación PCI DSS para las empresas? (1 pts)
 
+    * Demuestra el compromiso de la empresa con la seguridad de los datos de los clientes, genera confianza y  evita posibles sanciones, multas y la pérdida de permisos para procesar pagos con tarjeta.
+
 5. Describe brevemente tres de los doce requisitos de PCI DSS. (2 pts)
+
+   1. **Firewall:** Instalar, configurar y mantener un firewall para proteger el entorno donde se almacenan los datos de las tarjetas.
+
+   2. **Contraseñas:** No usar contraseñas predeterminadas de fábrica en los sistemas.
+
+   3. **Protección de datos almacenados:** Proteger los sistemas que almacenan datos de tarjetas.
+
+   4. **Cifrado de transmisiones:** Cifrar la transmisión de datos de tarjetas a través de redes públicas.
+
+   5. **Antivirus y Anti-malware:** Utilizar y mantener actualizados software antivirus y anti-malware.
+
+   6. **Desarrollo seguro de sistemas:** Desarrollar y mantener sistemas seguros.
+
+   7. **Control de acceso:** Restringir el acceso a los datos a las personas autorizadas y registrar todos los accesos.
+
+   8. **Autenticación única:** Implementar credenciales de acceso únicas para cada usuario.
+
+   9. **Acceso físico:** Restringir el acceso físico a los datos de las tarjetas.
+
+   10. **Monitorización y rastreo:** Monitorizar y rastrear el acceso a la red y a los datos de las tarjetas.
+
+   11. **Pruebas de seguridad:** Realizar pruebas de seguridad regulares.
+
+   12. **Política de seguridad:** Mantener una política de seguridad de la información para toda la empresa.
 
 Total: 10 pts
 
