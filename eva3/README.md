@@ -74,3 +74,7 @@ https://youtu.be/h3G-S3yBPJk?si=t5B07HpVBHT40mYS
 4. Describe las cinco etapas del ciclo de vida del servicio según ITIL. (3 pts)
 5. ¿Qué importancia tiene la "Mejora Continua del Servicio" en ITIL? (2 pts)
 6. ¿Por qué ITIL se considera un marco de trabajo valioso para las organizaciones? (2 pts)
+
+
+## RESTRICCIONES
+- puede subir el contenido como fecha limite lunes 25 de noviembre 11:59:59 a su repositorio

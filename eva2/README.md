@@ -40,19 +40,39 @@ nombre-apellido-eva2-owasp.md el siguiente cuestionario con lo que comprendió s
 
 1. ¿Qué es OWASP y cuál es su principal objetivo? (3 pts)
 
+    * OWASP (Open Web Application Security Project) es una organización sin fines de lucro dedicada a mejorar la seguridad del software. Su objetivo es hacer la seguridad del software visible para que individuos y organizaciones tomen decisiones informadas.
+
 2. ¿Qué es el OWASP Top 10 y por qué es importante para los desarrolladores? (4 pts)
+
+    * El OWASP Top 10 es un documento que lista los diez riesgos de seguridad más críticos en aplicaciones web. Es importante porque ayuda a los desarrolladores a comprender y mitigar las vulnerabilidades más comunes.
 
 3. Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017. (4 pts)
 
+    * (El alumno debe describir dos vulnerabilidades *diferentes*. Ejemplos:)
+        * **Inyección:** Ocurre cuando se envían datos no confiables a un intérprete como parte de un comando o consulta.
+        * **Pérdida de Autenticación:**  Cuando las funciones de autenticación y gestión de sesiones son implementadas incorrectamente, permitiendo a los atacantes comprometer cuentas de usuario.
+
 4. ¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? (4 pts)
+
+    * OWASP ASVS (Application Security Verification Standard) es un estándar para verificar la seguridad de las aplicaciones web. Define tres niveles: 1. Oportunista, 2. Estándar, y 3. Avanzado, cada uno con mayor profundidad en la verificación.
 
 5. ¿Cuál es la diferencia entre los niveles 1 y 3 de OWASP ASVS? (4 pts)
 
+    * El Nivel 1 es un nivel básico para cualquier software, mientras que el Nivel 3 es el más alto y se reserva para aplicaciones críticas que requieren la máxima seguridad. El Nivel 3 implica un análisis mucho más exhaustivo.
+
+
 6. ¿Qué es el modelado de amenazas y cuáles son sus beneficios? (4 pts)
+
+    * Es un proceso para identificar amenazas, ataques, vulnerabilidades y contramedidas que podrían afectar una aplicación.  Ayuda a mejorar el diseño, cumplir objetivos de seguridad y reducir riesgos.
+
 
 7. Nombra dos metodologías de modelado de amenazas. (3 pts)
 
+    * STRIDE, DREAD, PASTA, VAST, TRIKE, OCTAVA, NIST. (El alumno debe nombrar dos).
+
 8. ¿Qué es el SDL y cómo ayuda a la seguridad del software? (4 pts)
+    * SDL (Security Development Lifecycle) es un proceso de Microsoft para integrar la seguridad en el ciclo de vida del desarrollo de software. Ayuda a reducir el número y la gravedad de las vulnerabilidades.
+
 
 Total: 30 pts
 
@@ -145,4 +165,3 @@ Total: 10 pts
 
 # RESTRICCIONES
 - puede subir el contenido como fecha limite lunes 11 de noviembre 11:59:59 a su repositorio
-- enviar al correo cesarsoliscaro@outlook.com
