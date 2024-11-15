@@ -7,7 +7,7 @@ responda según su entendimiento y con sus palabras lo referido a cuestionarios.
 
 ### acciones:
 1. cree un repositorio en su cuenta github con el nombre
-eva3-seg-prog ej: *github.com/suNombreCuenta/eva3-prog-seg* 
+eva3-prog-seg ej: *github.com/suNombreCuenta/eva3-prog-seg* 
 donde subirá de forma manual sus respuestas de los ejercicios que posteriormente se mencionan. (2 pts)
 
 2. agregue una imagen suya que lo identifique en su repositorio de github (avatar) (3 pts)

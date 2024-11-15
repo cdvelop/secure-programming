@@ -3,7 +3,7 @@
 ## repositorio github.com (5 pts)
 **Instrucciones:** 
 - cree un repositorio en su cuenta github.com con el nombre
-eva2-seg-prog ej: *github.com/suNombreCuenta/eva2-prog-seg* (5 pts)
+eva2-prog-seg ej: *github.com/suNombreCuenta/eva2-prog-seg* (5 pts)
 donde subirá de forma manual sus respuestas de los ejercicios que a continuación se mencionan 
 informe a su profesor el nombre de su repositorio para agregarlo al listado enviándolo al correo:
 - *CESAR.SOLISC@correoaiep.cl*
@@ -160,7 +160,7 @@ nombre-apellido-eva2-cvss.md el siguiente cuestionario con lo que comprendió:
 
     * Un CAPTCHA es un test para distinguir humanos de ordenadores.  Sirve para prevenir el abuso de servicios por parte de bots.
 
-12. ¿Qué se entiende por "autenticación robusta centralizada"? (2)
+12. ¿Qué se entiende por "autenticación robusta centralizada"? (1)
 
     * Es un sistema de autenticación que requiere al menos dos factores para verificar la identidad del usuario, aumentando la seguridad.
 
