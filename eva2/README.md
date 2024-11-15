@@ -259,3 +259,6 @@ Total: 10 pts
 
 # RESTRICCIONES
 - puede subir el contenido como fecha limite lunes 11 de noviembre 11:59:59 a su repositorio
+
+NOTAS EVA2:
+https://docs.google.com/spreadsheets/d/17nGYcb7Q2C3TTYVD1sqMlB4HhRsKCEBsJNtX-QYWQQA/edit?usp=sharing
