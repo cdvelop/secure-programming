@@ -99,4 +99,4 @@ use el traductor de su navegador para una mejor comprensión
 
 
 ## RESTRICCIONES
-- puede subir el contenido como fecha limite miércoles 27 de noviembre 11:59:59 a su repositorio
+- puede subir el contenido como fecha limite viernes 29 de noviembre 11:59:59 a su repositorio
