@@ -4,15 +4,15 @@
 
 - docker
  video introductorio:
- https://youtu.be/9eTVZwMZJsA?si=WqJKtYMj_11odqqk
+ >https://youtu.be/9eTVZwMZJsA?si=WqJKtYMj_11odqqk
 
-- github codespace
+- github codespace 
 video introductorio:
-https://youtu.be/cO-oFpePy3c?si=Ev9z3ju-mardgkB2
+>https://youtu.be/cO-oFpePy3c?si=Ev9z3ju-mardgkB2
 
 - lenguaje de programación go
 video primeros pasos:
-https://youtu.be/D30UWujqftU?si=oD75sQmmSysblE9P
+>https://youtu.be/D30UWujqftU?si=oD75sQmmSysblE9P
 
 - configurar la herramienta codespace
 
