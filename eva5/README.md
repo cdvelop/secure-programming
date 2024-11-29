@@ -3,19 +3,26 @@
 - maquinas virtuales
 
 - docker
+ video introductorio:
+ https://youtu.be/9eTVZwMZJsA?si=WqJKtYMj_11odqqk
 
 - github codespace
+video introductorio:
+https://youtu.be/cO-oFpePy3c?si=Ev9z3ju-mardgkB2
 
-- go
+- lenguaje de programación go
+video primeros pasos:
+https://youtu.be/D30UWujqftU?si=oD75sQmmSysblE9P
 
-- crear servidor http go aplicando seguridad
+- configurar la herramienta codespace
+
+- en clase crear servidor http go usando la herramienta codespace
 
 
 
+grupos (2p):
 
-grupos de 2:
-
-1. Rafael - Juan Beleño
+1. Rafael Martorell - Juan Beleño
 
 2. Catalina Toledo - Diego Gonzalez 
 
