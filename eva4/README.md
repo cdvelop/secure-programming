@@ -5,7 +5,7 @@
 - sea breve en sus respuestas (máximo 2 - 5 lineas).
 - cree un repositorio en su cuenta github con el nombre
 **eva4-prog-seg** ej: **github.com/suNombreCuenta/eva4-prog-seg** donde subirá las respuestas de las preguntas.
-en un fichero **README.md** único para esta evaluación.
+en un fichero **http-headers.md** único para esta evaluación.
 
 
 ##  HTTP HEADERS (20 pts)

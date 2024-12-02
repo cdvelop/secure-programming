@@ -21,7 +21,7 @@ https://youtu.be/xbNx7ZrqK6I?si=gW95ra0AAdcAABaH (4 pts)
 
 ### preguntas:
 **Instrucciones:** 
-responda en un fichero markdown lo referente a preguntas con el nombre: nombre-apellido-git.md
+responda en un fichero markdown lo referente a preguntas con el nombre: **git-repo.md**
 
 1. sabe la diferencia entre un repositorio de proyectos y un software de control de versiones¨? explique brevemente max 4 lineas. (2 pts)
 2. que es git y para que sirve? (2 pts)
@@ -30,7 +30,7 @@ responda en un fichero markdown lo referente a preguntas con el nombre: nombre-a
 
 ## 2- ISO 9000 (15 pts)
 **Instrucciones:** 
-vea el video y responda según lo comprendido en un fichero markdown con en nombre: nombre-apellido-iso-9000.md
+vea el video y responda según lo comprendido en un fichero markdown con en nombre: **iso-9000.md**
 
 https://youtu.be/svDC80A4JsM?si=klAI8ix8Awe9DNw3  
 09:39 minutos
@@ -45,7 +45,7 @@ https://youtu.be/svDC80A4JsM?si=klAI8ix8Awe9DNw3
 
 ## 3- ISO 27001 (20 pts)
 **Instrucciones:** 
-vea el video y responda según lo comprendido en un fichero markdown con en nombre: nombre-apellido-iso-27001.md
+vea el video y responda según lo comprendido en un fichero markdown con en nombre: **iso-27001.md**
 https://youtu.be/iZNUDnf7QgQ?si=P03Z7IIT5FRQyiy_
 13:41 minutos
 
@@ -59,7 +59,7 @@ https://youtu.be/iZNUDnf7QgQ?si=P03Z7IIT5FRQyiy_
 7. ¿Por qué es importante el apoyo de la alta dirección? (2 pts)
 
 ## 4- Gestión de Cambios de ITIL (15 pts)
-vea los videos y responda según lo comprendido en un fichero markdown con en nombre: nombre-apellido-itil.md
+vea los videos y responda según lo comprendido en un fichero markdown con en nombre: **itil.md**
 que es itil:
 https://youtu.be/YA1_egJohUA?si=tBzxMEBD3CgeG9oP
 2:51 minutos
