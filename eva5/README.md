@@ -1,5 +1,26 @@
 # evaluación 5 "trabajo de clase"
 
+1- crear un repositorio en github con el nombre:
+programacion-segura, archivo main.go hola mundo
+
+```go
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("hola mundo")
+
+}
+```
+
+
+
+
+## material referencia:
+
+
 - maquinas virtuales
 
 - docker
@@ -43,3 +64,5 @@ grupos (2p):
 5. Francisco Villa - Daniel Romero
 
 6. Sebastian Olivera - Jose Chavez
+
+

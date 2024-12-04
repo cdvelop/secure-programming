@@ -1,0 +1,71 @@
+# ISO 27001
+Code: iso-27001
+Title: "ISO 27001: Sistemas de Gestión de la Seguridad de la Información ISO-27001"
+Content: |
+    # Norma ISO 27001
+
+    Para entender la ISO 27001, comencemos con un ejemplo sencillo: implementar la seguridad en nuestros equipos personales. Parece fácil: instalamos un antivirus, un proxy, usamos contraseñas seguras, y listo. El problema surge al trasladar esto a una organización. Ya no es un solo equipo, sino cientos, además de servidores, personas, procesos y procedimientos.  Gestionar la seguridad de la información en todos estos activos se vuelve un reto complejo.
+
+    Por eso, necesitamos un sistema que nos ayude a gestionar la seguridad de la información en la organización: un Sistema de Gestión de Seguridad de la Información (SGSI).  Para entenderlo, debemos partir de la tríada de la seguridad: confidencialidad, integridad y disponibilidad.
+
+    * **Confidencialidad:** La información solo debe ser accesible para personas autorizadas.
+    * **Integridad:** La información debe permanecer completa y sin alteraciones.
+    * **Disponibilidad:** La información debe estar disponible cuando se necesite.
+
+    El objetivo de esta tríada es proteger la información, ya sea física, digital o en cualquier otro formato.  Un SGSI implementa medidas de seguridad en los activos de información, como políticas, procesos, procedimientos y controles. Estas medidas deben ser una realidad, no solo documentación.  Si una política exige contraseñas de 12 caracteres, deben implementarse.
+
+    La norma ISO 27001 nos guía para establecer, implementar, mantener y mejorar un SGSI.  Responde al "*¿qué* hacer?", pero no al "*¿cómo* hacerlo?".  Esto permite que las organizaciones apliquen las medidas según su contexto. La norma no puede exigir 5 respaldos cada 3 minutos a todas las organizaciones, ya que algunas pueden hacerlo y otras no.
+
+    El SGSI según la ISO 27001 se basa en la gestión de riesgos.  La norma busca que identifiquemos los riesgos de seguridad y cómo evitarlos.  Para ello, realizamos un análisis de riesgos e implementamos controles (Anexo A de la norma, con 114 controles).
+
+    La ISO 27001 se estructura en 10 secciones y un anexo. Las 3 primeras son introductorias. A partir de la sección 4, se aborda el contexto de la organización, las partes interesadas y el alcance del SGSI.
+
+    La sección 5 trata el liderazgo y el compromiso de la alta dirección, crucial para el éxito del SGSI.  Se definen roles, responsabilidades y una política de seguridad de la información.
+
+    La sección 6, fundamental, trata la evaluación y tratamiento de riesgos. Se identifica dónde están los riesgos y qué controles del Anexo A aplicar. La Declaración de Aplicabilidad documenta los riesgos y los controles seleccionados.  También se definen los objetivos de seguridad.
+
+    La sección 7 aborda los recursos necesarios para el SGSI: comunicación, concientización, etc.
+
+    La sección 8, vinculada a la 6, detalla cómo tratar los riesgos mediante los controles seleccionados del Anexo A.
+
+    La sección 9 trata la evaluación del desempeño, incluyendo la medición de la eficacia de los controles y las auditorías internas.
+
+    La sección 10 aborda la mejora continua, gestionando los hallazgos de las auditorías internas.
+
+    Para el éxito de un proyecto de implementación de la ISO 27001, son clave: el apoyo de la alta dirección, la consideración de los tiempos (puede tardar de 6 a 8 meses en una empresa de 60 empleados, o más de un año), los costos (nóminas, consultoría, tecnología, capacitación), y la participación de toda la organización (no es un proyecto solo de TI).
+
+Questions:
+  - Number: 1
+    Description: Qué es un SGSI
+    Expected: "Un Sistema de Gestión de Seguridad de la Información (SGSI) es un conjunto de políticas, procedimientos y controles diseñados para gestionar los riesgos de seguridad de la información de una organización."
+    Score: 3
+
+  - Number: 2
+    Description: ¿Cuáles son los tres pilares de la seguridad de la información?
+    Expected: "Confidencialidad, integridad y disponibilidad."
+    Score: 3
+
+  - Number: 3
+    Description: ¿Qué describe la norma ISO 27001?
+    Expected: "La norma ISO 27001 describe cómo establecer, implementar, mantener y mejorar un SGSI."
+    Score: 3
+
+  - Number: 4
+    Description: ¿Qué diferencia hay entre el \"qué\" y el \"cómo\" en la ISO 27001?
+    Expected: "La norma especifica el 'qué' (los objetivos y requisitos), pero no el 'cómo' (la implementación específica), permitiendo flexibilidad a cada organización."
+    Score: 3
+
+  - Number: 5
+    Description: ¿En qué se basa el SGSI según la ISO 27001?
+    Expected: "En la gestión de riesgos."
+    Score: 3
+
+  - Number: 6
+    Description: ¿Qué son los controles en la ISO 27001 y dónde se encuentran?
+    Expected: "Los controles son medidas para mitigar los riesgos; se encuentran en el Anexo A de la norma."
+    Score: 3
+
+  - Number: 7
+    Description: ¿Por qué es importante el apoyo de la alta dirección?
+    Expected: "El apoyo de la alta dirección es crucial para el éxito de la implementación de un SGSI, ya que proporciona recursos, compromiso y define las prioridades."
+    Score: 2

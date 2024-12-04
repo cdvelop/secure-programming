@@ -1,0 +1,62 @@
+# ISO 9000
+Code: iso-9000
+Title: "ISO 9000: Sistemas de Gestión de la Calidad"
+Content: |
+    ## ISO 9000:
+
+    es uno de los estándares de calidad internacional más conocidos y aceptados a nivel global. Abordaremos los orígenes de la ISO, sus beneficios y ventajas para las organizaciones.
+
+    esta es la página oficial de ISO https://www.iso.org/ Aquí encontrarán mucha información sobre esta norma de calidad y sus beneficios para las empresas que logran certificarse.
+
+    ISO 9000 es un conjunto de estándares internacionales de administración de calidad determinados por ISO. ¿Pero qué significa ISO?  Son las siglas de *International Organization for Standardization*, es decir, Organización Internacional de Normalización.
+
+    ¿Qué persigue la ISO?  Su objetivo final es la satisfacción del cliente al adquirir bienes o servicios de la mejor calidad posible.  ISO 9000 establece lineamientos estandarizados para los procesos de producción de las empresas. Estos estándares cubren muchos aspectos de la organización, incluyendo operaciones como la gestión de contratos, la producción y la entrega final de los bienes.
+
+    Un poco de historia para entender el origen de la certificación ISO 9000: La normalización como concepto surge en el siglo XIX con la Revolución Industrial, que cambió la forma de trabajar y producir.  Las empresas necesitaban producir más, manteniendo la calidad.  La ISO se constituyó como organismo en 1947, tras la Segunda Guerra Mundial. Sin embargo, la norma ISO 9000 se estableció en 1987 (no en 1994).  Desde entonces, ha habido varias actualizaciones y revisiones. La última revisión se realizó en 2015.
+
+    Actualmente, ISO 9000 es un estándar mundial de referencia. Si bien no es obligatoria, muchas empresas, especialmente las grandes o las que buscan expandirse internacionalmente, se certifican para demostrar su capacidad de ofrecer la mejor calidad posible.  Aunque es opcional, obtener la certificación ISO 9000 puede ser un requisito para negocios globales, como acuerdos o contratos internacionales.  El certificado ISO 9000 demuestra que la empresa promueve la calidad en todas sus operaciones.  Países como Estados Unidos y China, con gran actividad comercial internacional, tienen la mayor cantidad de empresas certificadas.
+
+    En 2021, había más de un millón de empresas y organizaciones de diferentes sectores certificadas con ISO 9000 en más de 170 países. La expansión global y la búsqueda de la calidad impulsan la certificación.
+
+    Los 7 principios de ISO 9000 son:
+
+    1. Enfoque en el cliente.
+    2. Liderazgo.
+    3. Compromiso del personal (engagement).
+    4. Enfoque a procesos.
+    5. Mejora continua.
+    6. Toma de decisiones basadas en la evidencia.
+    7. Gestión de las relaciones.
+
+    La norma certificable es la ISO 9001.  Las ventajas de la certificación son: estandarización de las actividades, mayor satisfacción del cliente,  mayor eficacia y eficiencia (lo que mejora la rentabilidad), mejora continua de los procesos, y reducción de las incidencias negativas en la producción o prestación de servicios, lo que disminuye los costos.
+
+Questions:
+  - Number: 1
+    Description: ¿Qué significa ISO?
+    Expected: "ISO significa International Organization for Standardization (Organización Internacional de Normalización)."
+    Score: 2
+
+  - Number: 2
+    Description: Cuál es el objetivo principal de la ISO 9000
+    Expected: "El objetivo principal es la satisfacción del cliente mediante la entrega de productos y servicios de calidad."
+    Score: 3
+
+  - Number: 3
+    Description: En qué año se estableció la norma ISO 9000
+    Expected: "1987"
+    Score: 2
+
+  - Number: 4
+    Description: Es obligatoria la certificación ISO 9000
+    Expected: "No, no es obligatoria, pero es una ventaja competitiva para muchas empresas."
+    Score: 2
+
+  - Number: 5
+    Description: Menciona tres beneficios de obtener la certificación ISO 9000
+    Expected: "Ejemplos: Mayor satisfacción del cliente, mejora de la eficiencia y eficacia, mejora continua de procesos."
+    Score: 3
+
+  - Number: 6
+    Description: Cuáles son los siete principios de la ISO 9000
+    Expected: "Enfoque al cliente, liderazgo, participación del personal, enfoque a procesos, mejora continua, toma de decisiones basada en evidencia y gestión de relaciones."
+    Score: 3
