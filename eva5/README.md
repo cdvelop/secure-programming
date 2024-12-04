@@ -9,11 +9,23 @@ import (
 )
 
 func main() {
+    var mundo = "Mundo ok"
+    const var_const = "constante"
 
-	fmt.Println("hola mundo")
-
+    fmt.Print("hola mundo")
+	fmt.Printf("hola %v\n", mundo)
+	fmt.Println("hello",var_const)
 }
 ```
+
+para inicializar el modulo en go
+```bash	
+go mod init github.com/nombre_usuario/nombre_carpeta
+```
+
+2- configuración de codespaces con tiempo de espera y tiempo de eliminación
+
+
 
 
 
