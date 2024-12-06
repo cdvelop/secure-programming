@@ -1,5 +1,6 @@
 # evaluación 5 "trabajo de clase"
 
+## 1- GO Y CODESPACES
 1- crear un repositorio en github con el nombre:
 programacion-segura, archivo main.go hola mundo
 
@@ -27,19 +28,43 @@ go mod init github.com/nombre_usuario/nombre_carpeta
 
 
 
+## SERVIDOR GO
 
+```GO
+package main
+
+import (
+    "fmt"
+    "net/http"
+)
+
+func helloHandler(w http.ResponseWriter, r *http.Request) {
+    fmt.Fprintf(w, "Hola Mundo")
+}
+
+func main() {
+    http.HandleFunc("/", helloHandler)
+    
+    fmt.Println("Servidor iniciado en http://localhost:8080")
+    http.ListenAndServe(":8080", nil)
+}
+```
+
+```go
+  // Servir archivos estáticos desde el directorio "static"
+    fs := http.FileServer(http.Dir("./static"))
+    http.Handle("/", fs)
+```
 
 
 ## material referencia:
 
 
-- maquinas virtuales
-
-- docker
+### docker
  video introductorio:
  >https://youtu.be/9eTVZwMZJsA?si=WqJKtYMj_11odqqk
 
-- github codespace 
+### github codespace 
 video introductorio:
 >https://youtu.be/cO-oFpePy3c?si=Ev9z3ju-mardgkB2
 - documentación oficial codespace:
@@ -54,13 +79,18 @@ https://github.com/codespaces
 
 - configurar la herramienta codespace
 
+## GO (GOLANG)
+
+- pagina oficial
+go.dev
+
 - lenguaje de programación go
 video primeros pasos:
 >https://youtu.be/D30UWujqftU?si=oD75sQmmSysblE9P
 
+- para búsqueda de lenguaje go por GOLANG
 
 - en clase crear servidor http go usando la herramienta codespace
-
 
 
 grupos (2p):
