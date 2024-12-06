@@ -5,6 +5,8 @@
 programacion-segura, archivo main.go hola mundo
 
 ```go
+package main
+
 import (
 	"fmt"
 )
@@ -92,6 +94,17 @@ video primeros pasos:
 
 - en clase crear servidor http go usando la herramienta codespace
 
+## notas red
+- puertos importantes
+ 80 http
+ 443 https
+ 22 ssh
+
+ ## notas GIT GITHUB
+ - para clonar un repositorio u trabajar de forma local se usa el comando git clone + ruta del repo ej:
+ ```bash
+ git clone https://github.com/NOMBRE_USUARIO_GITHUB/programacion-segura.git
+ ```
 
 grupos (2p):
 
