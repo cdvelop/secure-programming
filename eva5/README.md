@@ -90,9 +90,11 @@ go.dev
 video primeros pasos:
 >https://youtu.be/D30UWujqftU?si=oD75sQmmSysblE9P
 
-- para búsqueda de lenguaje go por GOLANG
+- para búsqueda de lenguaje go por **GOLANG**
 
-- en clase crear servidor http go usando la herramienta codespace
+- para finalizar la ejecución del código se presiona 
+**ctrl + c**
+
 
 ## notas red
 - puertos importantes
