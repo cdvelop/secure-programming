@@ -108,6 +108,11 @@ video primeros pasos:
  git clone https://github.com/NOMBRE_USUARIO_GITHUB/programacion-segura.git
  ```
 
+
+ # SEGURIDAD WINDOWS
+- para configurar la seguridad en las cuentas de usario de windows se usa el comando windows + r y se escribe:
+ **control userpasswords2**
+
 grupos (2p):
 
 1. Rafael Martorell - Juan Beleño
