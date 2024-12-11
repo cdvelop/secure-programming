@@ -92,6 +92,11 @@ video primeros pasos:
 
 - para búsqueda de lenguaje go por **GOLANG**
 
+- curso básico de go
+https://youtu.be/7SLBaY3jetM?si=KDbyIqE8ANR80KZ4
+
+
+
 - para finalizar la ejecución del código se presiona 
 **ctrl + c**
 
@@ -110,8 +115,11 @@ video primeros pasos:
 
 
  # SEGURIDAD WINDOWS
-- para configurar la seguridad en las cuentas de usario de windows se usa el comando windows + r y se escribe:
+- para configurar la seguridad en las cuentas de usuario de windows se usa el comando windows + r y se escribe:
  **control userpasswords2**
+
+
+# trabajo clase:
 
 grupos (2p):
 
